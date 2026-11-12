@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nathan/Coding/Bible Memorization App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13916823004672087623.xml:2:13-83
+INJECTED from /Users/nathan/Coding/Bible Memorization App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13916823004672087623.xml:2:13-83
+	package
+		INJECTED from /Users/nathan/Coding/Bible Memorization App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13916823004672087623.xml
+	xmlns:android
+		ADDED from /Users/nathan/Coding/Bible Memorization App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13916823004672087623.xml:2:23-81
+uses-sdk
+INJECTED from /Users/nathan/Coding/Bible Memorization App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13916823004672087623.xml reason: use-sdk injection requested
+INJECTED from /Users/nathan/Coding/Bible Memorization App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13916823004672087623.xml
+INJECTED from /Users/nathan/Coding/Bible Memorization App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13916823004672087623.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nathan/Coding/Bible Memorization App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13916823004672087623.xml
+	android:minSdkVersion
+		INJECTED from /Users/nathan/Coding/Bible Memorization App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13916823004672087623.xml

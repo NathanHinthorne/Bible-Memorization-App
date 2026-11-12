@@ -1,0 +1,27 @@
+[versions]
+kotlin = "2.1.0"
+compose = "1.7.3"
+agp = "8.7.0"
+sqldelight = "2.0.2"
+coroutines = "1.10.0"
+androidx-activityCompose = "1.9.3"
+androidx-compose-bom = "2024.12.01"
+
+[libraries]
+kotlinx-coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "coroutines" }
+sqldelight-runtime = { module = "app.cash.sqldelight:runtime", version.ref = "sqldelight" }
+sqldelight-coroutines = { module = "app.cash.sqldelight:coroutines-extensions", version.ref = "sqldelight" }
+sqldelight-android = { module = "app.cash.sqldelight:android-driver", version.ref = "sqldelight" }
+sqldelight-native = { module = "app.cash.sqldelight:native-driver", version.ref = "sqldelight" }
+androidx-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "androidx-activityCompose" }
+androidx-compose-bom = { module = "androidx.compose:compose-bom", version.ref = "androidx-compose-bom" }
+androidx-compose-material3 = { module = "androidx.compose.material3:material3" }
+
+[plugins]
+kotlinMultiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+kotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+composeMultiplatform = { id = "org.jetbrains.compose", version.ref = "compose" }
+composeCompiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+androidApplication = { id = "com.android.application", version.ref = "agp" }
+androidLibrary = { id = "com.android.library", version.ref = "agp" }
+sqldelight = { id = "app.cash.sqldelight", version.ref = "sqldelight" }

@@ -1,0 +1,9 @@
+The Bible text in web.tsv is from the World English Bible (WEB Updated Edition).
+
+Source: https://ebible.org/Scriptures/engwebu_usfm.zip
+The archive's preface states that the World English Bible is in the public domain
+and may be freely copied, distributed, and redistributed.
+
+The text is normalized from USFM for offline verse lookup. Scripture content
+remains the World English Bible; this application is not affiliated with the
+World English Bible project.
